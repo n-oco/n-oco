@@ -1,6 +1,6 @@
 ## Hi there 👋
-## 🌱 I’m currently learning this site and HTML, CSS, JS, Python, C++
-## 📫 How to reach me: njocampo@outlook.com / noeljocampo@gmail.com
+- 🌱 I’m currently learning this site and HTML, CSS, JS, Python, C++
+- 📫 How to reach me: njocampo@outlook.com / noeljocampo@gmail.com
 
 <!--
 **n-oco/n-oco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
